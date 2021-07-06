@@ -15,3 +15,20 @@ body {
 .lasttext:hover {
 	background-color: greenyellow;
 }
+
+.stylelink {
+	text-decoration: none;
+	color: greenyellow;
+}
+
+.stylelink:visited {
+	color: garkgreen;
+}
+
+.stylelink:hover {
+	color: orange;
+}
+
+.stylelink:active {
+	color: skyblue;
+}
