@@ -3,7 +3,15 @@ body {
 	font-family: Calibri, "Comic Sans", serif;
 	font-size: 40px;
 	background-color: #272822;
+	color:#EEEAD7;
 }
 
 /*Прочее, что добавила по ходу дела*/
-p {color:#EEEAD7;}
+.lasttext {
+	font-decoration: line-through;
+	color: black;
+	background-color: snow;
+}
+.lasttext:hover {
+	background-color: greenyellow;
+}
